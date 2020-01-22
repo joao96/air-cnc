@@ -12,7 +12,6 @@
 
   <img alt="GitHub language count" src="https://img.shields.io/badge/languages-3-blue">
 
-
   <a href="https://www.codacy.com/manual/joao96/air-cnc?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=joao96/air-cnc&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/badge/code%20quality-A-brightgreen">
   </a>
@@ -28,15 +27,15 @@
 
 This project was developed with the guidance of the [RocketSeat](https://rocketseat.com.br/) instructors using the following technologies:
 
--  [ReactJS](https://reactjs.org/)
--  [Axios](https://github.com/axios/axios)
--  [React Native](https://facebook.github.io/react-native/)
--  [NodeJS](https://nodejs.org/en/)
--  [Express](https://expressjs.com/pt-br/)
--  [Socket.io](https://socket.io/)
--  [MongoDB](https://www.mongodb.com/)
--  [Mongoose](https://mongoosejs.com/)
--  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+-   [ReactJS](https://reactjs.org/)
+-   [Axios](https://github.com/axios/axios)
+-   [React Native](https://facebook.github.io/react-native/)
+-   [NodeJS](https://nodejs.org/en/)
+-   [Express](https://expressjs.com/pt-br/)
+-   [Socket.io](https://socket.io/)
+-   [MongoDB](https://www.mongodb.com/)
+-   [Mongoose](https://mongoosejs.com/)
+-   [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :information_source: How To Use
 
@@ -70,9 +69,7 @@ $ yarn start
 ## :rotating_light: Attetion
 It's recommended that in order to actually run the mobile side, you outght install the [Expo](https://expo.io/) app on your mobile device. Once the application is up on your computer, you shoud see a new tab on your browser with a QR Code. Use the camera on your device to read it.
 
-
 ---
-
 ## That's all! 😎
 
 [Get in touch!](https://www.linkedin.com/in/jvpoletti/)
