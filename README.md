@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="React RocketShoes" src="https://arturkilldragon.files.wordpress.com/2019/06/omnistack-wallpaper-1920x1080.png" />
+    <img alt="AirCnC" src="https://arturkilldragon.files.wordpress.com/2019/06/omnistack-wallpaper-1920x1080.png" />
     <br>
     AirCnC
 </h1>
